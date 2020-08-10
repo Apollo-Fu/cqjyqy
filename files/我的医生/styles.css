@@ -1,0 +1,131 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1109px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u264_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1125px;
+  height:2436px;
+}
+#u264 {
+  border-width:0px;
+  position:absolute;
+  left:-8px;
+  top:-4px;
+  width:1125px;
+  height:2436px;
+}
+#u264_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u265_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1117px;
+  height:259px;
+}
+#u265 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:398px;
+  width:1117px;
+  height:259px;
+}
+#u265_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u266_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:170px;
+  height:170px;
+}
+#u266 {
+  border-width:0px;
+  position:absolute;
+  left:37px;
+  top:443px;
+  width:170px;
+  height:170px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:50px;
+}
+#u266_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:52px;
+  width:166px;
+  word-wrap:break-word;
+}
+#u267_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:451px;
+  height:80px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:45px;
+}
+#u267 {
+  border-width:0px;
+  position:absolute;
+  left:239px;
+  top:448px;
+  width:451px;
+  height:80px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:45px;
+}
+#u267_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:451px;
+  word-wrap:break-word;
+}
