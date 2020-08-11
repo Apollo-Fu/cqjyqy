@@ -1549,6 +1549,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-size:20px;
   text-align:left;
 }
 #u76 {
@@ -1558,6 +1559,7 @@
   top:827px;
   width:658px;
   height:298px;
+  font-size:20px;
   text-align:left;
 }
 #u76_text {
@@ -1580,7 +1582,7 @@
   border-width:0px;
   position:absolute;
   left:552px;
-  top:836px;
+  top:862px;
   width:97px;
   height:79px;
 }
@@ -1605,7 +1607,7 @@
   border-width:0px;
   position:absolute;
   left:552px;
-  top:947px;
+  top:1010px;
   width:97px;
   height:79px;
 }
@@ -1630,7 +1632,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:936px;
+  top:967px;
   width:670px;
   height:1px;
 }
@@ -1829,7 +1831,7 @@
   left:0px;
   top:826px;
   width:670px;
-  height:257px;
+  height:299px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
